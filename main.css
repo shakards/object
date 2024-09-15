@@ -1,0 +1,459 @@
+body{
+    background-color: white;
+    color: ;
+}
+
+.carousel-item{
+    width: 100%;
+}
+
+.hair{
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+}
+  
+.hair a {
+    float: left;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.hair a:hover {
+    /* background-color: #000; */
+}
+
+.circle{
+    height: 650px;
+    width: 96%;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+
+.gap{
+    margin-left: 45%;
+}
+
+.bio{
+    margin-top: -19%;
+    margin-left: 24%;
+}
+
+.key{
+    margin-left: 24%;
+}
+
+.det{
+    margin-left: 24%;
+    width: 21.9%;
+}
+
+.pig{
+    border-radius: 5px;
+}
+
+.app{
+    border-radius: 5px;
+    margin-top: -20%;
+    margin-left: 49%;
+}
+
+.info{
+    margin-top: -20%;
+    margin-left: 73%;
+}
+
+.slap{
+    margin-left: 73%;
+}
+
+.door{
+    width: 25%;
+    margin-left: 73%;
+}
+
+.clown{
+    margin-top: 3%;
+    margin-left: 42%;
+}
+
+.part{
+    margin-top: 3%;
+}
+
+.map{
+    margin-left: 33%;
+    width: 15%;
+    height: 50px;
+    margin-top: 3%;
+    color: #ddd;
+    border: none;
+    background-color: #000;
+}
+
+.eyes{
+    margin-top: 2%;
+    margin-left: 1%;
+}
+
+.bad{
+    margin-top: -20%;
+    margin-left: 28%;
+}
+
+.lair{
+    margin-top: -21%;
+    margin-left: 57%;
+}
+
+.rio{
+    margin-left: 5%;
+}
+
+.race{
+    margin-top: -22%;
+    margin-left: 83%;
+}
+
+.dis{
+    margin-left: 12%;
+}
+
+.whom{
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+.zoo{
+    margin-top: -30%;
+    margin-left: 50%;
+}
+
+.swim{
+    margin-left: 50%;
+}
+
+.arm{
+    width: 30%;
+    margin-left: 50%;
+}
+
+.might{
+    width: 30%;
+    margin-left: 50%;
+}
+
+.cash{
+    margin-left: 1%;
+    margin-top: 7%;
+}
+
+.slam{
+    margin-left: 2%;
+}
+
+.mask{
+    margin-top: 2%;
+}
+
+.open{
+    margin-left: 1%;
+    width: 21%;
+}
+
+.much{
+    margin-top: -69%;
+    margin-left: 40%;
+}
+
+.lost{
+    margin-top: -24%;
+    margin-left: 44%;
+}
+
+.hoe{
+    margin-left: 43%;
+}
+
+.take{
+    margin-left: 42%;
+    width: 20%;
+}
+
+.lunch{
+    margin-top: -69%;
+    margin-left: 75%;
+}
+
+.steal{
+    margin-top: -24%;
+    margin-left: 78%;
+}
+
+.steel{
+    margin-left: 81%;
+}
+
+.give{
+    width: 20%;
+    margin-left: 77%;
+}
+
+.odd{
+    margin-top: 3%;
+}
+
+.up{
+    margin-left: 15%;
+}
+
+.shoe{
+    margin-left: 21%;
+}
+
+.sales{
+    width: 20%;
+    margin-left: 15%;
+}
+
+.sleep{
+    margin-top: -74%;
+    margin-left: 60%;
+}
+
+.stuck{
+    margin-top: -27%;
+    margin-left: 59%;
+}
+
+.stalk{
+    margin-left: 62%;
+}
+
+.held{
+    width: 20%;
+    margin-left: 62%;
+}
+
+.bask{
+    margin-top: 2%;
+}
+
+
+.dash{
+    margin-left: 1%;
+    width: 21%;
+}
+
+.from{
+    margin-top: 2%;
+    margin-left: 00%; 
+}
+
+.form{
+    margin-top: 1%;
+    margin-left: 2%;
+}
+
+.dope{
+    width: 20%;
+    margin-left: 1%;
+}
+
+.next{
+    margin-top: -67%;
+    margin-left: 39%;
+}
+
+.city{
+    margin-top: -22%;
+    margin-left: 44%;
+}
+
+.toe{
+    margin-top: 1%;
+    margin-left: 40%;
+}
+
+.poke{
+    width: 20%;
+    margin-left: 40%;
+}
+
+.punch{
+    margin-top: -68%;
+    margin-left: 75%;
+}
+
+.warm{
+    margin-top: -22%;
+    margin-left: 77%;
+}
+
+.press{
+    margin-left: 80%;
+}
+
+.prew{
+    margin-left: 75%;
+    width: 25%;
+} 
+
+.max{
+    /* position: fixed; */
+    margin-top: 1%;
+    margin-left: 15%;
+}
+
+
+.boom{
+    margin-top: 1%;
+    margin-left: 45%;
+}
+
+
+.call{
+    margin-left: 15%;
+}
+
+.woo{
+    margin-left: 14%;
+}
+
+.gal{
+    padding-left: 2%;
+    width: 100%;
+    height: 500px;
+    background-color: rgba(227, 217, 28, 0.716);
+    margin:0% 0%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 75%;
+}
+
+.palace{
+    margin-top: -20%;
+    margin-left: 50%;
+}
+
+.sent{
+    margin-left: 2%;
+}
+
+footer{
+    position: relative;
+    height: 500px;
+    color: white;
+    background-color: red;
+}
+
+.foot{
+    display: flex;
+    flex-direction: column;
+}
+
+.foot a{text-decoration: none;}
+
+.fa-facebook{
+    padding-left: 1.6%;
+    padding-top: 1%;
+    margin-top: 10%;
+    margin-left: 30%;  
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    color: black;
+    background-color: white;
+}
+
+.fa-instagram{
+    padding-left: 1.4%;
+    padding-top: 1%;
+    margin-top: 10%;
+    margin-left: 2%;  
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    color: black;
+    background-color: white;
+}
+
+.fa-twitter{
+    padding-left: 1.4%;
+    padding-top: 1%;
+    margin-top: 10%;
+    margin-left: 2%;  
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    color: black;
+    background-color: white;
+}
+
+.fa-google-plus-official{
+    padding-left: 1%;
+    padding-top: 0.5%;
+    /* margin-top: 1%; */
+    margin-left: 2%;  
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    color: black;
+    background-color: white;
+}
+
+.fa-youtube-play{
+    padding-left: 1.1%;
+    padding-top: 1%;
+    margin-top: 10%;
+    margin-left: 2%;  
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    color: black;
+    background-color: white;
+}
+
+
+.ahh{
+    margin-top: 5%;
+}
+.ahh a{
+    
+    font-size: 20px;
+    color: white;
+}
+
+.ahh a:hover{
+    color: navy;
+    text-decoration: none;
+}
+
+.cube{
+    margin-left: 22%;
+}
+
+.rat{
+    margin-left: 5%;
+}
+
+
+.chat{
+    margin-left: 5%;
+}
+
+
+.gun{
+    margin-left: 5%;
+}
+
+
+.design{
+    margin-left: 5%;
+}
+
+.main{
+    margin-top: 5%;
+    margin-left: 35%;
+}
